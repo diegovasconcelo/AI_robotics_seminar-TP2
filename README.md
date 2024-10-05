@@ -23,4 +23,3 @@ The objective is to assemble a circuit with a sensor that counts the number of p
 - [Circuit](https://www.tinkercad.com/things/bYUXavLRjua-tp2): You can see the circuit here.
 - [Source code](./people_counter.cpp)
 - [Tinkercad](https://www.tinkercad.com/): Tool used for the circuit design and simulation.
-
