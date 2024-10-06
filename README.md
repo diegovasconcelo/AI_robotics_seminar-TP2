@@ -18,6 +18,9 @@ The objective is to assemble a circuit with a sensor that counts the number of p
 
 3. **Implementation**: The project was developed using an Arduino Uno R3 and an Ultrasonic Distance Sensor to detect people entering the area. When the sensor detects an object within a certain distance threshold (set to 45 cm), it increases the counter displayed on a 16x2 LCD screen.
 
+### Circuit Design
+![Circuit](./circuit_1.png)
+
 
 ## Resources
 - [Circuit](https://www.tinkercad.com/things/bYUXavLRjua-tp2): You can see the circuit here.
